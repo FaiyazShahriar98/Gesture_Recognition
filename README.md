@@ -1,4 +1,5 @@
 Gesture Recognition
+
 A real-time hand gesture recognition system that leverages computer vision, deep learning, and audio processing to detect and classify hand gestures from a live video feed. This project is designed to enhance human-computer interaction and assist with applications such as sign language interpretation and gesture-based control systems.
 
 Table of Contents
